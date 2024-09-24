@@ -113,3 +113,7 @@ mdc: true
 # これからやりたいこと
 
 <FromNow />
+
+---
+
+<Thankyou />
