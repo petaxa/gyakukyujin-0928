@@ -1,5 +1,4 @@
 <template>
-  <h1>インターン</h1>
   <h2>2つの就業型インターンに参加</h2>
   <div class="container">
     <div>

@@ -1,5 +1,4 @@
 <template>
-  <h1>キャリアビジョン</h1>
   <div class="container">
     <h2 class="triangle-item">チームビルディング</h2>
     <h2 class="triangle-item">技術力</h2>

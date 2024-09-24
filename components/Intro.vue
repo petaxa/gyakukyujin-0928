@@ -1,6 +1,4 @@
 <template>
-  <h1>自己紹介</h1>
-
   <div class="container">
     <div class="name item1">
       <img class="portrait" src="/portrait.png" alt="" />

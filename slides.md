@@ -24,34 +24,50 @@ transition: slide-left
 mdc: true
 ---
 
+# 自己紹介資料
+
 <Title />
 
 ---
+
+# 自己紹介
 
 <Intro />
 
 ---
 
+# プログラミング経験
+
 <Experience />
 
 ---
 
+# Webアプリ作成
+
 <WebAppIntro />
 
 ---
+
+# Webアプリ作成 -落ちものゲーム
 
 <WebAppTsubo />
 <!-- 利用した技術、入れる余裕あったら入れたい -->
 
 ---
 
+# Webアプリ作成 -日報作成アプリ
+
 <WebAppDounatsu />
 <!-- 利用した技術、入れる余裕あったら入れたい -->
 ---
 
+# インターン
+
 <Intern />
 
 ---
+
+# キャリアビジョン
 
 <Career />
 
@@ -87,5 +103,7 @@ mdc: true
   ]"
 />
 ---
+
+# これからやりたいこと
 
 <FromNow />

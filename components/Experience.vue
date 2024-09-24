@@ -1,5 +1,4 @@
 <template>
-  <h1>プログラミング経験</h1>
   <div class="container">
     <div>
       <h2>経験5年</h2>

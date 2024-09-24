@@ -1,5 +1,4 @@
 <template>
-  <h1>Webアプリ作成</h1>
   <div class="container">
     <div class="item">
       <img src="/building-tsubo.png" alt="" />

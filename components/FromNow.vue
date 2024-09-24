@@ -1,5 +1,4 @@
 <template>
-  <h1>これからやりたいこと</h1>
   <div class="container">
     <div>
       <h2>短期</h2>

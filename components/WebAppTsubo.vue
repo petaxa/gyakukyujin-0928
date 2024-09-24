@@ -1,5 +1,4 @@
 <template>
-  <h1>Webアプリ作成 -落ちものゲーム</h1>
   <div class="container">
     <div class="imgs">
       <img src="/creating-tsubo.png" alt="" />

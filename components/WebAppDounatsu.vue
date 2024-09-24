@@ -1,5 +1,4 @@
 <template>
-  <h1>Webアプリ作成 -日報作成アプリ</h1>
   <div class="container">
     <div class="imgs">
       <img src="/dounatsu-top.png" alt="" />
